@@ -6,5 +6,4 @@
  */
 
 rootProject.name = "login_register_home"
-enableFeaturePreview('VERSION_CATALOGS')
 include("plugin")
